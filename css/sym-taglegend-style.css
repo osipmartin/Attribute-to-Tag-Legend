@@ -1,0 +1,21 @@
+.tag-legend th, .tag-legend td{
+	color: white;
+	border:  2px lightgray solid;
+}
+
+.tag-legend td { 
+	background-color: #202020;
+}
+
+.tag-legend .title {
+	width: 100%;
+}
+
+.tag-legend .title * {
+	width: 100%;
+	background-color: #091d3a;
+}
+
+.tag-legend .header-row th{
+	background-color: #2a3e5d;
+}
